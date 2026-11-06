@@ -5,6 +5,8 @@ scans, with who recorded it, where, when, and on which page.
 
 **786 distinct word forms · 816 rows · 4 sources · 12 named settlements**
 
+**Browse and search it:** https://justiceharker.github.io/vedda-language-archive/
+
 Vedda (ISO 639-3 `ved`) is the language of the Wanniyala-Aetto, the indigenous people of Sri
 Lanka. UNESCO classifies it **Definitely Endangered**: roughly 300 native speakers by one
 count, against ~2,500 people identifying as Vedda in 2002, of whom about 11% are conversant.
