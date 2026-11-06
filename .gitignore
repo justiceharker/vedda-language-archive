@@ -1,0 +1,10 @@
+# Source scans: large, re-downloadable via ./fetch-sources.sh
+sources/
+*.xml
+!.github/**/*.xml
+
+# Local scratch
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db

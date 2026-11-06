@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,gloss_in_source
+VEDDA-1-1,,VEDDA,1,meEtto,meEtto,m e a t t o,,10991,,false,^ m e E t t o $,default,I
+VEDDA-2-1,,VEDDA,2,topan,topan,t o p ɐ n,,10991,,false,^ t o p a n $,default,you
+VEDDA-3-1,,VEDDA,3,meEtto,meEtto,m e a t t o,,10991,,false,^ m e E t t o $,default,we
+VEDDA-11-1,,VEDDA,11,ek3m3,ek3m3,e k ə m ə,,10991,,false,^ e k 3 m 3 $,default,one
+VEDDA-11-2,,VEDDA,11,ek3m3y,ek3m3y,e k ə m ə j,,10991,,false,^ e k 3 m 3 y $,default,one
+VEDDA-12-1,,VEDDA,12,dek3m3,dek3m3,d e k ə m ə,,10991,,false,^ d e k 3 m 3 $,default,two
+VEDDA-12-2,,VEDDA,12,dek3m3y,dek3m3y,d e k ə m ə j,,10991,,false,^ d e k 3 m 3 y $,default,two
+VEDDA-18-1,,VEDDA,18,miniggej3,miniggej3,m i n i g g e dʒ ə,,10991,,false,^ m i n i g g e j 3 $,default,person
+VEDDA-19-1,,VEDDA,19,jiy3m3CCi,jiy3m3CCi,dʒ i j ə m ə tʃ tʃ i,,10991,,false,^ j i y 3 m 3 C C i $,default,fish
+VEDDA-19-2,,VEDDA,19,diy3m3CC3,diy3m3CC3,d i j ə m ə tʃ tʃ ə,,10991,,false,^ d i y 3 m 3 C C 3 $,default,fish
+VEDDA-21-1,,VEDDA,21,kukk3,kukk3,k u k k ə,,10991,,false,^ k u k k 3 $,default,dog
+VEDDA-22-1,,VEDDA,22,m3kun3,m3kun3,m ə k u n ə,,10991,,false,^ m 3 k u n 3 $,default,louse
+VEDDA-23-1,,VEDDA,23,rukam,rukam,r u k ɐ m,,10991,,false,^ r u k a m $,default,tree
+VEDDA-25-1,,VEDDA,25,kol3,kol3,k o l ə,,10991,,false,^ k o l 3 $,default,leaf
+VEDDA-28-1,,VEDDA,28,ham,ham,h ɐ m,,10991,,false,^ h a m $,default,skin
+VEDDA-30-1,,VEDDA,30,le,le,l e,,10991,,false,^ l e $,default,blood
+VEDDA-34-1,,VEDDA,34,am,am,ɐ m,,10991,,false,^ a m $,default,horn
+VEDDA-39-1,,VEDDA,39,kam,kam,k ɐ m,,10991,,false,^ k a m $,default,ear
+VEDDA-40-1,,VEDDA,40,EC,EC,a tʃ,,10991,,false,^ E C $,default,eye
+VEDDA-40-2,,VEDDA,40,Ej,Ej,a dʒ,,10991,,false,^ E j $,default,eye
+VEDDA-41-1,,VEDDA,41,nat,nat,n ɐ t,,10991,,false,^ n a t $,default,nose
+VEDDA-41-2,,VEDDA,41,nas,nas,n ɐ s,,10991,,false,^ n a s $,default,nose
+VEDDA-43-1,,VEDDA,43,dat,dat,d ɐ t,,10991,,false,^ d a t $,default,tooth
+VEDDA-44-1,,VEDDA,44,div3,div3,d i v ə,,10991,,false,^ d i v 3 $,default,tongue
+VEDDA-44-2,,VEDDA,44,div,div,d i v,,10991,,false,^ d i v $,default,tongue
+VEDDA-48-1,,VEDDA,48,att,att,ɐ t t,,10991,,false,^ a t t $,default,hand
+VEDDA-53-1,,VEDDA,53,b3de vEl,b3de vEl,b ə d e + v a l,,10991,,false,^ b 3 d e + v E l $,default,liver
+VEDDA-54-1,,VEDDA,54,kEvill3n3v3,kEvill3n3v3,k a v i l l ə n ə v ə,,10991,,false,^ k E v i l l 3 n 3 v 3 $,default,drink
+VEDDA-57-1,,VEDDA,57,ECpojj3te mand~oven3v3,ECpojj3te mand~oven3v3,a tʃ p o dʒ dʒ ə t e + m ɐ ⁿd o v e n ə v ə,,10991,,false,^ E C p o j j 3 t e + m a nd~ o v e n 3 v 3 $,default,see
+VEDDA-58-1,,VEDDA,58,kamp~ojj3t3 mand~oven3v3,kamp~ojj3t3 mand~oven3v3,k ɐ mp o dʒ dʒ ə t ə + m ɐ ⁿd o v e n ə v ə,,10991,,false,^ k a mp~ o j j 3 t 3 + m a nd~ o v e n 3 v 3 $,default,hear
+VEDDA-61-1,,VEDDA,61,niyamb~3t3d3m3n3v3,niyamb~3t3d3m3n3v3,n i j ɐ ⁿb ə t ə d ə m ə n ə v ə,,10991,,false,^ n i y a mb~ 3 t 3 d 3 m 3 n 3 v 3 $,default,die
+VEDDA-66-1,,VEDDA,66,mang~3CC3n3v3,mang~3CC3n3v3,m ɐ ⁿg ə tʃ tʃ ə n ə v ə,,10991,,false,^ m a ng~ 3 C C 3 n 3 v 3 $,default,come
+VEDDA-72-1,,VEDDA,72,ir3,ir3,i r ə,,10991,,false,^ i r 3 $,default,sun
+VEDDA-74-1,,VEDDA,74,t3ru,t3ru,t ə r u,,10991,,false,^ t 3 r u $,default,star
+VEDDA-75-1,,VEDDA,75,diy3r3CC3,diy3r3CC3,d i j ə r ə tʃ tʃ ə,,10991,,false,^ d i y 3 r 3 C C 3 $,default,water
+VEDDA-77-1,,VEDDA,77,gal,gal,g ɐ l,,10991,,false,^ g a l $,default,stone
+VEDDA-82-1,,VEDDA,82,ginir3CC3,ginir3CC3,g i n i r ə tʃ tʃ ə,,10991,,false,^ g i n i r 3 C C 3 $,default,fire
+VEDDA-85-1,,VEDDA,85,mam,mam,m ɐ m,,10991,,false,^ m a m $,default,path
+VEDDA-86-1,,VEDDA,86,kand~u,kand~u,k ɐ ⁿd u,,10991,,false,^ k a nd~ u $,default,mountain
+VEDDA-86-2,,VEDDA,86,hel,hel,h e l,,10991,,false,^ h e l $,default,mountain
+VEDDA-92-1,,VEDDA,92,rE,rE,r a,,10991,,false,^ r E $,default,night
+VEDDA-100-1,,VEDDA,100,nam,nam,n ɐ m,,10991,,false,^ n a m $,default,name

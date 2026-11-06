@@ -1,0 +1,2963 @@
+{
+ "blocks": [
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Ant-eater",
+   "sinhalese": [
+    "Kaballaya",
+    "Kabaellaewa"
+   ],
+   "kaele_basa": [
+    "Potta, /. Potti",
+    "Aeya",
+    "Talkola-pettiya"
+   ],
+   "vaedi": [
+    "Malinyawa",
+    "Gal-munda, N.",
+    "Gal-gawara, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Axe-man",
+   "sinhalese": [
+    "Poro-karaya"
+   ],
+   "kaele_basa": [
+    "Wacjuwa"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Bear",
+   "sinhalese": [
+    "Walaha",
+    "/. Waelihini"
+   ],
+   "kaele_basa": [
+    "Uyangowrva",
+    "Tadiya, /. Tadi",
+    "Kaluwa, /. Kalu-",
+    "Waehhini",
+    "Gamaya, /. Garni"
+   ],
+   "vaedi": [
+    "Keriya",
+    "Bala",
+    "Haecca, N.",
+    "Wala, N.",
+    "Araci, N.",
+    "Baraci, N.",
+    "Keri-bot.a, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Beast",
+   "sinhalese": [
+    "Sipawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Bota",
+    "Sipa, N. Hipa, N.",
+    "Hatura, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Bee, honey",
+   "sinhalese": [
+    "Mi maessa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Kuda Maehikeli",
+    "Kuda Maeyikeli"
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": ",, humble",
+   "sinhalese": [
+    "Bumbaeli-",
+    "maessa"
+   ],
+   "kaele_basa": [
+    "_"
+   ],
+   "vaedi": [
+    "Penda-uli, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": ",, large",
+   "sinhalese": [
+    "Bambara"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Ma Maehikeli",
+    "Ma Maeyikeli"
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": ",, small",
+   "sinhalese": [
+    "Kuda Mi-",
+    "maessa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Hin Maehikeli",
+    "Hin Maeyikeli"
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Bird",
+   "sinhalese": [
+    "Kurulla"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Cappiya, /. Cappi",
+    "Sappi, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Buffalo",
+   "sinhalese": [
+    "Miwa"
+   ],
+   "kaele_basa": [
+    "Ambaruwa",
+    "Gawaya",
+    "Pimbinna, N."
+   ],
+   "vaedi": [
+    "Manya, /. Many!",
+    "Wal Mannya, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Cattle",
+   "sinhalese": [
+    "Harak"
+   ],
+   "kaele_basa": [
+    "Bolla, N."
+   ],
+   "vaedi": [
+    "Mannya, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Child",
+   "sinhalese": [
+    "Lamaya"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Kaekula, pi. Kaekul-",
+    "peto",
+    "Ammi, N.",
+    "Bilinda, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Civet Cat",
+   "sinhalese": [
+    "Urulaewa"
+   ],
+   "kaele_basa": [
+    "Appala-baetaeya",
+    "Hotaembihya",
+    "Hotambaya"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Cobra",
+   "sinhalese": [
+    "Naya"
+   ],
+   "kaele_basa": [
+    "B5yi-satteya"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Cow",
+   "sinhalese": [
+    "Eladena"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Gonadena, N.",
+    "Goni, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Crocodile",
+   "sinhalese": [
+    "Kimbula"
+   ],
+   "kaele_basa": [
+    "Gamaya"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "Deer, Axis",
+   "sinhalese": [
+    "Pit-muwa"
+   ],
+   "kaele_basa": [
+    "Ambaruwa",
+    "Pit-paelaella"
+   ],
+   "vaedi": [
+    "Kewula",
+    "Kabara-bota., N.",
+    "Muwa-kewara, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": ",, Mouse",
+   "sinhalese": [
+    "Miminna"
+   ],
+   "kaele_basa": [
+    "Kekka, /. Kekki",
+    "Yakadaya",
+    "Dangaraya, N."
+   ],
+   "vaedi": [
+    "Lembu, N.",
+    "Kewura, N."
+   ]
+  },
+  {
+   "leaf": 158,
+   "page": 125,
+   "english": "„ Red",
+   "sinhalese": [
+    "Waeli-muwa"
+   ],
+   "kaele_basa": [
+    "Rat-badaya, N."
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Deer, Sambar",
+   "sinhalese": [
+    "Gona"
+   ],
+   "kaele_basa": [
+    "Ambaruwa",
+    "Karakolaya",
+    "Polls, /. Polli"
+   ],
+   "vaedi": [
+    "Gawara Mahagalla",
+    "Hela-katS,",
+    "Keri-gonS",
+    "GawarS, N.",
+    "Gal-gawara, N.",
+    "Kata-kaebaelS, N.",
+    "MSgSl, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Deity",
+   "sinhalese": [
+    "DeviyS"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "HurS"
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Dog",
+   "sinhalese": [
+    "Balia"
+   ],
+   "kaele_basa": [
+    "AedurS",
+    "BandinnS, /. Ban-",
+    "dinni",
+    "Hatara-bSgayS",
+    "Hatara-bSga-aettS"
+   ],
+   "vaedi": [
+    "Kukka, f. Kikki",
+    "Balo, N.",
+    "KotawS, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Elephant",
+   "sinhalese": [
+    "Aliya",
+    "AetS (tusker)"
+   ],
+   "kaele_basa": [
+    "UhallS",
+    "UsaUS, /. Usalli",
+    "UsangallS",
+    "GajjarS, N."
+   ],
+   "vaedi": [
+    "BotS, /. Boti",
+    "Bota-kandS",
+    "Gombara-UhallS",
+    "Aet-botS, N.",
+    "Bota-KabalS, N.",
+    "KadS, N.",
+    "Kota baebelS, N.",
+    "MolS, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Father",
+   "sinhalese": [
+    "PiyS",
+    "AppS"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "AppS-latto, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Fish",
+   "sinhalese": [
+    "MSlu"
+   ],
+   "kaele_basa": [
+    "Mas"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "„ small",
+   "sinhalese": [
+    "Ku$a-massag",
+    "Uriyan",
+    "Tittayo"
+   ],
+   "kaele_basa": [
+    "Gembo"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Hare",
+   "sinhalese": [
+    "HSwS"
+   ],
+   "kaele_basa": [
+    "YakdessS",
+    "YaddessS"
+   ],
+   "vaedi": [
+    "Yak-kadayS, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Hornbill",
+   "sinhalese": [
+    "KSendettS"
+   ],
+   "kaele_basa": [
+    "Aeta-raetiyS"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "(Tockus)",
+   "sinhalese": [],
+   "kaele_basa": [
+    "Aettiriya",
+    "RaetiyS"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Hornet",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "' Iguana ’",
+   "sinhalese": [
+    "Debarfi",
+    "Goya, /. goyi"
+   ],
+   "kaele_basa": [
+    "PatarambayS",
+    "Kaeraella"
+   ],
+   "vaedi": [
+    "MundS, /. Mundi",
+    "Dembara-maeccS, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "( Varanus )",
+   "sinhalese": [],
+   "kaele_basa": [
+    "KapurSla (aged)",
+    "MandS, /. Mandi"
+   ],
+   "vaedi": [
+    "Go-kandS, N.",
+    "Go-mundS, N.",
+    "Goy-botS, N.",
+    "MundS, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": ",, tied in a",
+   "sinhalese": [
+    "—"
+   ],
+   "kaele_basa": [
+    "Mandu-walalla"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "circle for car-",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "rying",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Kingfisher",
+   "sinhalese": [
+    "Pilihu<JuwS"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "TSkan, N. (Tamil)"
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Kite, Brahminy",
+   "sinhalese": [
+    "UkussS"
+   ],
+   "kaele_basa": [
+    "MSralu"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Lapwing ( Lobi -",
+   "sinhalese": [
+    "KiralS"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Aeti"
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "vanellus )",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "Leopard",
+   "sinhalese": [
+    "KotiyS"
+   ],
+   "kaele_basa": [
+    "DiviyS",
+    "SiwupSwS",
+    "Baedi-mutS, N.",
+    "Raenaya, N."
+   ],
+   "vaedi": [
+    "Kapuru-ballS",
+    "PolleccS",
+    "MitS, N.",
+    "Mita-botS, N."
+   ]
+  },
+  {
+   "leaf": 159,
+   "page": 126,
+   "english": "little one",
+   "sinhalese": [
+    "PettiyS"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "PeccS, /. Pecci"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Lizard ( Calotes )",
+   "sinhalese": [
+    "Katussa"
+   ],
+   "kaele_basa": [
+    "_"
+   ],
+   "vaedi": [
+    "Kat-tomba, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Lord",
+   "sinhalese": [
+    "Swami"
+   ],
+   "kaele_basa": [
+    "Himi"
+   ],
+   "vaedi": [
+    "Hura"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Man",
+   "sinhalese": [
+    "Miniha"
+   ],
+   "kaele_basa": [
+    "Hobaraya"
+   ],
+   "vaedi": [
+    "Mina, pi. Minu",
+    "Minna, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Monkey (Sem-",
+   "sinhalese": [
+    "Wandura"
+   ],
+   "kaele_basa": [
+    "Gas-gona"
+   ],
+   "vaedi": [
+    "Uda-kelinna"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "nopithecus) j",
+   "sinhalese": [],
+   "kaele_basa": [
+    "Gas-gona"
+   ],
+   "vaedi": [
+    "Keri-bandura, N.",
+    "Ma-bandura, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Monkey ( Ther -",
+   "sinhalese": [
+    "Rilawa"
+   ],
+   "kaele_basa": [
+    "Kandan-paninna"
+   ],
+   "vaedi": [
+    "Hil-bandura, N.",
+    ".3.2;"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "sites)",
+   "sinhalese": [],
+   "kaele_basa": [
+    "Patagahapu-eka"
+   ],
+   "vaedi": [
+    "Hossa, N. (?)",
+    "Nilawa, N.",
+    "Rila-pataya, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Mungus",
+   "sinhalese": [
+    "Mugatiya"
+   ],
+   "kaele_basa": [
+    "Appala-baetaeya",
+    "Ho-tambaya"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Pig",
+   "sinhalese": [
+    "tJra"
+   ],
+   "kaele_basa": [
+    "Hota-baraya,",
+    "/. Hota-barl",
+    "Tadiya, /. Tadi",
+    "Tel-kaliya"
+   ],
+   "vaedi": [
+    "Dola, /. Doll",
+    "Hocca-dikka",
+    "Gal-bota, N.",
+    "Hossa-ulla, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Porcupine",
+   "sinhalese": [
+    "Ittaewa"
+   ],
+   "kaele_basa": [
+    "Ittaeya",
+    "Katuwa"
+   ],
+   "vaedi": [
+    "Iddaeya, N.",
+    "Hicca, N.",
+    "Nittaewa, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Snail (land)",
+   "sinhalese": [
+    "Gombaella"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Tomba, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Snake",
+   "sinhalese": [
+    "Sarpaya"
+   ],
+   "kaele_basa": [
+    "Isa-gora-satteya"
+   ],
+   "vaedi": [
+    "Tola-gaecca",
+    "Sara-bota, N.",
+    "Urasa, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Turtle",
+   "sinhalese": [
+    "Ibba"
+   ],
+   "kaele_basa": [
+    "Diya-kukula, N."
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Wife",
+   "sinhalese": [
+    "Hire"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Naena, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Woman",
+   "sinhalese": [
+    "GaenI"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Mini, pi. Minila",
+    "Maeli, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Youth",
+   "sinhalese": [
+    "Ilandaraya"
+   ],
+   "kaele_basa": [
+    "—",
+    "General Nouns."
+   ],
+   "vaedi": [
+    "Kaekula, /. Kaekuli"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Areka-nut",
+   "sinhalese": [
+    "Puwak-gedi"
+   ],
+   "kaele_basa": [
+    "Golaeya (unripe)",
+    "Kahata-gedi",
+    "Kaeppiti-gedi"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Arrow",
+   "sinhalese": [
+    "Igaha"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Itala, N.",
+    "Moriyan-kecca, N."
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Axe",
+   "sinhalese": [
+    "Porawa"
+   ],
+   "kaele_basa": [
+    "Kotanna",
+    "Poro-waduwa",
+    "Waduwa"
+   ],
+   "vaedi": [
+    "At-barawa",
+    "Gal-raekki",
+    "Porawa-pecca"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Bark bag",
+   "sinhalese": [
+    "Malla"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Riti-malla",
+    "Patta-malla"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": ",, basket",
+   "sinhalese": [
+    "Pettiya"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Patta-pettiya"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "„ of branch",
+   "sinhalese": [
+    "Atu-potta"
+   ],
+   "kaele_basa": [
+    "Rana-potta"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Betel-leaf",
+   "sinhalese": [
+    "Bulat kola"
+   ],
+   "kaele_basa": [
+    "B51",
+    "Bol-kola",
+    "Bol-pana",
+    "Daehaet",
+    "Paengiri"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 160,
+   "page": 127,
+   "english": "Billhook",
+   "sinhalese": [
+    "Kaetta"
+   ],
+   "kaele_basa": [
+    "Awudae",
+    "Kaeti-waduwa"
+   ],
+   "vaedi": [
+    "Adinata",
+    "Mala-koti"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Billhook, golden",
+   "sinhalese": [
+    "Ran-kaetta"
+   ],
+   "kaele_basa": [
+    "_"
+   ],
+   "vaedi": [
+    "Manna-kaetta"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Blade",
+   "sinhalese": [
+    "Tal§"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Kaecca, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Blood",
+   "sinhalese": [
+    "Le"
+   ],
+   "kaele_basa": [
+    "Tuwala"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": ",, track",
+   "sinhalese": [
+    "Le-para"
+   ],
+   "kaele_basa": [
+    "Kiri-para"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Body",
+   "sinhalese": [
+    "Sarira"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Bo-pata, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Bow",
+   "sinhalese": [
+    "Dunna"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Dun-ga, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": ",, string",
+   "sinhalese": [
+    "Dunu-lanuwa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Dunu-diya"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Cave",
+   "sinhalese": [
+    "Gal-ge",
+    "Lena"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Gahge",
+    "Rukkula, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Chillies",
+   "sinhalese": [
+    "Rata-miris"
+   ],
+   "kaele_basa": [
+    "Serapalu"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Clan",
+   "sinhalese": [
+    "Gotra"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Warige",
+    "Waruge, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Clouds",
+   "sinhalese": [
+    "Walahula"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Gal-periya, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Cold",
+   "sinhalese": [
+    "Sita"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Ehna, N. (?)"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Cross-roads",
+   "sinhalese": [
+    "Man-handiya"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Ruppe."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Earth (ground)",
+   "sinhalese": [
+    "Bima"
+   ],
+   "kaele_basa": [
+    "Bumi"
+   ],
+   "vaedi": [
+    "Polawe-waeh",
+    "Bimi, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Eye",
+   "sinhalese": [
+    "Aeha"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Eccel, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Fat",
+   "sinhalese": [
+    "Tel"
+   ],
+   "kaele_basa": [
+    "Kapparu, N."
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Fire",
+   "sinhalese": [
+    "Gindara",
+    "Gini",
+    "Ginna (body-",
+    "heat)"
+   ],
+   "kaele_basa": [
+    "Ratta"
+   ],
+   "vaedi": [
+    "Ginna",
+    "Ginname",
+    "Pimbinata"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Fire-wood",
+   "sinhalese": [
+    "Dara"
+   ],
+   "kaele_basa": [
+    "Pirn mb u"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Flesh",
+   "sinhalese": [
+    "Malu",
+    "Mas"
+   ],
+   "kaele_basa": [
+    "Higaman, N."
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Flock",
+   "sinhalese": [
+    "Raela"
+   ],
+   "kaele_basa": [
+    "Kaya, N."
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Food (cooked)",
+   "sinhalese": [
+    "Kaema"
+   ],
+   "kaele_basa": [
+    "Pas"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Forest",
+   "sinhalese": [
+    "Mukalana"
+   ],
+   "kaele_basa": [
+    "Himala",
+    "Uyana"
+   ],
+   "vaedi": [
+    "Baedde, N.",
+    "Gala, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Found things",
+   "sinhalese": [
+    "—"
+   ],
+   "kaele_basa": [
+    "Taegi (with v.",
+    "lebenawa)"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Friend",
+   "sinhalese": [
+    "Y aluwa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Kimbune, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Gourd",
+   "sinhalese": [
+    "Labu-gedi"
+   ],
+   "kaele_basa": [
+    "Kalu-gaetaeya",
+    "Suraya",
+    "Titta-gaeti"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Gourd, for water",
+   "sinhalese": [
+    "Labba"
+   ],
+   "kaele_basa": [
+    "Dabaraewa",
+    "Pandawa"
+   ],
+   "vaedi": [
+    "Panllya"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Hair (of head)",
+   "sinhalese": [
+    "Isa-kes"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Ica-Kola, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Halting-place",
+   "sinhalese": [
+    "Wadiya"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Ruppe"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Head",
+   "sinhalese": [
+    "Isa",
+    "Oluwa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "lea, N.",
+    "Isi, N.",
+    "Iya, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Heat",
+   "sinhalese": [
+    "Ushna"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Gina, N."
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Hive (of Mi-",
+   "sinhalese": [
+    "Miya"
+   ],
+   "kaele_basa": [
+    "Gabadaewa"
+   ],
+   "vaedi": [
+    "Maehikeli-gama"
+   ]
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "maessa)",
+   "sinhalese": [],
+   "kaele_basa": [
+    "Gabadawa"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 161,
+   "page": 128,
+   "english": "Honey",
+   "sinhalese": [
+    "Mi-paeni"
+   ],
+   "kaele_basa": [
+    "Bora"
+   ],
+   "vaedi": [
+    "Meccan, N.",
+    "Micca, N.",
+    "Mijja, N.",
+    "Mijjaka-peni, N.",
+    "Minji-paeni, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Honey-comb",
+   "sinhalese": [
+    "Mi-wada"
+   ],
+   "kaele_basa": [
+    "Padaya, N."
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Horns",
+   "sinhalese": [
+    "An"
+   ],
+   "kaele_basa": [
+    "Aratu",
+    "Todu",
+    "Wakata-padaya, N."
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "House",
+   "sinhalese": [
+    "Ge"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Gal-gama",
+    "Tun-ge (hut)",
+    "Rukkula, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Jungle",
+   "sinhalese": [
+    "Kaele",
+    "Wal"
+   ],
+   "kaele_basa": [
+    "Hi mala",
+    "Uyana"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Ladder (cane)",
+   "sinhalese": [
+    "We-wael ini-",
+    "maga"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Ran-kendiya, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Leg",
+   "sinhalese": [
+    "Kakula"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Danis patul, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Lightning",
+   "sinhalese": [
+    "Widuliya"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Gini-waetunu, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Loin-cloth",
+   "sinhalese": [
+    "Konama"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Konam-po<jge"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Millet",
+   "sinhalese": [
+    "Kurahan"
+   ],
+   "kaele_basa": [
+    "Alu"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": ",, cake",
+   "sinhalese": [
+    "Roti"
+   ],
+   "kaele_basa": [
+    "Alu-lelli",
+    "Alu-pota",
+    "Alu-puwa",
+    "Gini-puwa"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": ",, flour",
+   "sinhalese": [
+    "Kurahan-piti"
+   ],
+   "kaele_basa": [
+    "Alu-kucju"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Moon",
+   "sinhalese": [
+    "Handa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Pana-pojja, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Noise",
+   "sinhalese": [
+    "Sabda"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Anda, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Nose",
+   "sinhalese": [
+    "Nahe"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Naya N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Piece",
+   "sinhalese": [
+    "Kaella"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Kate, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Porridge",
+   "sinhalese": [
+    "Talapa"
+   ],
+   "kaele_basa": [
+    "Kula"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Rain",
+   "sinhalese": [
+    "Waessa",
+    "Warusawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Diya-pompa, N.",
+    "Waecca, N.",
+    "Waecca-wata, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Rice, cooked",
+   "sinhalese": [
+    "Bat"
+   ],
+   "kaele_basa": [
+    "Arambu",
+    "Bubbara"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": ",, uncooked",
+   "sinhalese": [
+    "Hal"
+   ],
+   "kaele_basa": [
+    "Lawal-aeta"
+   ],
+   "vaedi": [
+    "Pubbura, N.",
+    "Wata-kuru, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": ",, unhusked",
+   "sinhalese": [
+    "Vi"
+   ],
+   "kaele_basa": [
+    "Kiri lawal-aeta"
+   ],
+   "vaedi": [
+    "Depatulan, N.",
+    "Depurul, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "River",
+   "sinhalese": [
+    "Oya"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Diya-gama, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Sea",
+   "sinhalese": [
+    "Muhuda"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Sawu, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Sky",
+   "sinhalese": [
+    "Ahasa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Dewu-ula, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Stage (of jour-",
+   "sinhalese": [
+    "Hatakma"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Pilluma"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "ney)",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Stream",
+   "sinhalese": [
+    "Aela"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Diyagama, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Snout",
+   "sinhalese": [
+    "Hossa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Hocca"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Sun",
+   "sinhalese": [
+    "Ira"
+   ],
+   "kaele_basa": [
+    "Suriya"
+   ],
+   "vaedi": [
+    "Ira-pojja, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Thorn",
+   "sinhalese": [
+    "Katuwa"
+   ],
+   "kaele_basa": [
+    "Panaraela, N."
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Thunder",
+   "sinhalese": [
+    "Ahasa gaera-",
+    "wlma"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Dewu-ula ande, N."
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Tobacco",
+   "sinhalese": [
+    "Dun-kola"
+   ],
+   "kaele_basa": [
+    "Paepol-rodu",
+    "Sera-kola"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Touchwood",
+   "sinhalese": [
+    "—"
+   ],
+   "kaele_basa": [
+    "Pirumbu"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 162,
+   "page": 129,
+   "english": "Tree",
+   "sinhalese": [
+    "Gaha"
+   ],
+   "kaele_basa": [
+    "Honda",
+    "Honde",
+    "Hondeya"
+   ],
+   "vaedi": [
+    "Ga, pi. Gayi",
+    "Guye (?), N.",
+    "K"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Troop",
+   "sinhalese": [
+    "Raela"
+   ],
+   "kaele_basa": [
+    "Kaya, N."
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Village",
+   "sinhalese": [
+    "Gama"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "No word"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Water",
+   "sinhalese": [
+    "Diya",
+    "Watura"
+   ],
+   "kaele_basa": [
+    "Dir a",
+    "Gangula, N.",
+    "Hon<2a",
+    "Paedi",
+    "Paeheyiya",
+    "Paen"
+   ],
+   "vaedi": [
+    "Diya"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Wind",
+   "sinhalese": [
+    "Hulanga",
+    "Verbs, and other Words."
+   ],
+   "kaele_basa": [
+    "W ataya"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Arise, to (from",
+   "sinhalese": [
+    "Naegitinawa"
+   ],
+   "kaele_basa": [
+    "Sun elagannawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "sleep)",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Before",
+   "sinhalese": [
+    "Issarahata"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Iccata, N."
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Behind",
+   "sinhalese": [
+    "Passata"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Paccata, N."
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Call, to",
+   "sinhalese": [
+    "Andagahanawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Kilapa, N.",
+    "Anda-talapa, N"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Cannot",
+   "sinhalese": [
+    "Bae"
+   ],
+   "kaele_basa": [
+    "Issarata (with dative'",
+    "Passe puluwani"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Catch, to (with",
+   "sinhalese": [
+    "Allanawa"
+   ],
+   "kaele_basa": [
+    "(Ata) gahanawa"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "hand)",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Chew, to",
+   "sinhalese": [
+    "Kotanawa"
+   ],
+   "kaele_basa": [
+    "Kotabanawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Chop, to (with",
+   "sinhalese": [
+    "Kotanawa"
+   ],
+   "kaele_basa": [
+    "Wadulanawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "axe)",
+   "sinhalese": [],
+   "kaele_basa": [
+    "Waduranawa"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Cohabit, to",
+   "sinhalese": [
+    "Sanwasaya",
+    "karanawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Penna-ganna, N."
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Cold, to be",
+   "sinhalese": [
+    "Sita-wenawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Hita-gana, N.",
+    "Hita-pura, N."
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Come, to",
+   "sinhalese": [
+    "Enawa"
+   ],
+   "kaele_basa": [
+    "Bandinawa, N.",
+    "Pahasu-wenawa"
+   ],
+   "vaedi": [
+    "Enna (Fut. ist",
+    "sing. Ennamma)"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Cook, to (broil,",
+   "sinhalese": [
+    "Uyanawa"
+   ],
+   "kaele_basa": [
+    "Tambanawa"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "etc.)",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Cut, to",
+   "sinhalese": [
+    "Kapanawa"
+   ],
+   "kaele_basa": [
+    "Man-karanawa, N."
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Die, to",
+   "sinhalese": [
+    "Maerenawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Miya, IN.",
+    "Miyala inda, N.",
+    "Miyala ya, N.",
+    "Sala ya, N."
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Dig the ground,",
+   "sinhalese": [
+    "Polawa"
+   ],
+   "kaele_basa": [
+    "Bin-dinawa"
+   ],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "to",
+   "sinhalese": [
+    "haranawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Distant",
+   "sinhalese": [
+    "Aeta"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Naekat, N."
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Do not",
+   "sinhalese": [
+    "—"
+   ],
+   "kaele_basa": [
+    "Issarata",
+    "Passe puluwani"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Drink to",
+   "sinhalese": [
+    "Bonawa"
+   ],
+   "kaele_basa": [
+    "Balanawa"
+   ],
+   "vaedi": [
+    "Diya ka, N.",
+    "Uka, N."
+   ]
+  },
+  {
+   "leaf": 163,
+   "page": 130,
+   "english": "Eat, to",
+   "sinhalese": [
+    "Kanawa"
+   ],
+   "kaele_basa": [
+    "Balanawa"
+   ],
+   "vaedi": [
+    "Bada-banda, N.",
+    "Kapa, N.",
+    "Kapat-ena, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Go, to",
+   "sinhalese": [
+    "Yanawa"
+   ],
+   "kaele_basa": [
+    "Baendenawa",
+    "Haerenawa",
+    "Issarahaeta bahi-",
+    "nawa",
+    "Karana karanawa",
+    "Issara balanawa, N."
+   ],
+   "vaedi": [
+    "Mangaccana",
+    "(Fut. 1st pers. sing.",
+    "Mangaccan.",
+    "Imp. 2nd pers. sing.",
+    "Mangaccapa).",
+    "Palacca, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": ",, to jungle",
+   "sinhalese": [
+    "Kaeleta yan-",
+    "awa"
+   ],
+   "kaele_basa": [
+    "Himala wadinawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Here",
+   "sinhalese": [
+    "Mehi"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Metta"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Hold, to",
+   "sinhalese": [
+    "Allanawa"
+   ],
+   "kaele_basa": [
+    "Bandinawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Hot, to become",
+   "sinhalese": [
+    "Unu-wenawa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Radaga, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Hungry, to be",
+   "sinhalese": [
+    "Bacjagini allan-",
+    "awa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Dalaga, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Insufficient",
+   "sinhalese": [
+    "Madi"
+   ],
+   "kaele_basa": [
+    "Boyi"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Journey, to",
+   "sinhalese": [
+    "Gaman-karan-",
+    "awa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Gnmana,",
+    "Mit-a-gana, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Jump, to",
+   "sinhalese": [
+    "Paninawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Bota-dama, N.",
+    "Duwa, N.",
+    "Paena, N.",
+    "Paran-dena, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Kindle (fire), to",
+   "sinhalese": [
+    "Pattu-karan-",
+    "awa"
+   ],
+   "kaele_basa": [
+    "Mahi-karanawa",
+    "Pawatanawa, N."
+   ],
+   "vaedi": [
+    "Awuccana, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": ",, (by cross-",
+   "sinhalese": [
+    "Mandinawa"
+   ],
+   "kaele_basa": [
+    "Mandinawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "friction)",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": ",, (by twirl-",
+   "sinhalese": [
+    "Gini-ganawa"
+   ],
+   "kaele_basa": [
+    "Gini-ganawa"
+   ],
+   "vaedi": [
+    "Gini-gana"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "ing-stick)",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": [
+    "Gini-gahen ginna",
+    "ganna"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Large, great",
+   "sinhalese": [
+    "Maha"
+   ],
+   "kaele_basa": [
+    "Gaja"
+   ],
+   "vaedi": [
+    "Ma"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Little",
+   "sinhalese": [
+    "Kuda",
+    "Punci"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Taenak, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Long",
+   "sinhalese": [
+    "Diga"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Dikka"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Mend (fire), to",
+   "sinhalese": [
+    "Bo-karanawa"
+   ],
+   "kaele_basa": [
+    "Mahat-karanawa",
+    "Pawattanawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Meet with, ob-",
+   "sinhalese": [
+    "Samba-wenawa"
+   ],
+   "kaele_basa": [
+    "Haeppenawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "tain",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "No",
+   "sinhalese": [
+    "Nae"
+   ],
+   "kaele_basa": [
+    "Boyi"
+   ],
+   "vaedi": [
+    "Kodawa1"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Not",
+   "sinhalese": [
+    "Naeti"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Kodawa"
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Pudendum (/.)",
+   "sinhalese": [
+    "—"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Hantana patiliya, N.",
+    "Mala kabala, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "„ (w.)",
+   "sinhalese": [
+    "—"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Hantana pole, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Quickly",
+   "sinhalese": [
+    "Lahi",
+    "Wigahata"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Numa, N.",
+    "Perumat, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Rain, to",
+   "sinhalese": [
+    "Wahinawa"
+   ],
+   "kaele_basa": [
+    "Gangula-banawa, N."
+   ],
+   "vaedi": [
+    "Diya pompa, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Run, to",
+   "sinhalese": [
+    "Duwanawa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Paena ucca, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "See, to",
+   "sinhalese": [
+    "Dakinawa"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Reviga, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "Shoot (with ar-",
+   "sinhalese": [
+    "Widinawa"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Penna-ga, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "row^), to",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": [
+    "Wida-b^cca, N.",
+    "Wida-ga, N."
+   ]
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "1 Compare Sin. nokadawa, always, ever (lit. unbroken) ; without the negative",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 164,
+   "page": 131,
+   "english": "particle kadawa would thus mean ‘ never.’",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Skin, to",
+   "sinhalese": [
+    "Hama-gahan-",
+    "awa"
+   ],
+   "kaele_basa": [
+    "Honda-karanawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Sleep, to",
+   "sinhalese": [
+    "Budi-wenawa",
+    "Ninda-gan-",
+    "nawa"
+   ],
+   "kaele_basa": [
+    "Boyi-karanawa"
+   ],
+   "vaedi": [
+    "Nida, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "So much",
+   "sinhalese": [
+    "Occara"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Witara, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Speak, to",
+   "sinhalese": [
+    "Kiyanawa"
+   ],
+   "kaele_basa": [
+    "Galu-karanawa, N."
+   ],
+   "vaedi": [
+    "Bana, N,",
+    "Guwa-kara, N.",
+    "Guwa, N.",
+    "Katan-kiya, N.",
+    "Kewili-la, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "There",
+   "sinhalese": [
+    "Ohe"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Otta"
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": ",, (distant)",
+   "sinhalese": [
+    "Aha"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Aramba"
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "That side",
+   "sinhalese": [
+    "Oya petta"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Oba",
+    "Obba, N.",
+    "Otaka, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "This side",
+   "sinhalese": [
+    "Me-petta"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Meba",
+    "Mebaga",
+    "Mobba, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Tie (an Iguana),",
+   "sinhalese": [
+    "—"
+   ],
+   "kaele_basa": [
+    "Manduranawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "to",
+   "sinhalese": [],
+   "kaele_basa": [],
+   "vaedi": []
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Walk, to",
+   "sinhalese": [
+    "Ewidinawa"
+   ],
+   "kaele_basa": [
+    "Tamananawa"
+   ],
+   "vaedi": [
+    "Gaman ila gana, N.",
+    "Gaman ina, N.",
+    "Mita gana, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Where",
+   "sinhalese": [
+    "Kohe"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Kode, N.",
+    "Koyde, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Whet, to",
+   "sinhalese": [
+    "Madinawa"
+   ],
+   "kaele_basa": [
+    "Honda-karanawa"
+   ],
+   "vaedi": [
+    "—"
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Why",
+   "sinhalese": [
+    "Eyi"
+   ],
+   "kaele_basa": [
+    "—"
+   ],
+   "vaedi": [
+    "Ayi"
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Yes",
+   "sinhalese": [
+    "Ha",
+    "£hS",
+    "Owu"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Ha",
+    "Ita, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "You",
+   "sinhalese": [
+    "T6 (thou), pi.",
+    "Topi",
+    "Umba"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Toba, N.",
+    "Toban, N.",
+    "Topa, N.",
+    "Topan, N."
+   ]
+  },
+  {
+   "leaf": 165,
+   "page": 132,
+   "english": "Young",
+   "sinhalese": [
+    "Lapati",
+    "Taruna"
+   ],
+   "kaele_basa": [],
+   "vaedi": [
+    "Elama, N."
+   ]
+  }
+ ],
+ "headings": [
+  {
+   "leaf": 158,
+   "y": 626,
+   "text": "Animals."
+  }
+ ],
+ "problems": []
+}
